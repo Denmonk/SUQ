@@ -1,0 +1,15 @@
+C:\Users\evgen\source\repos\SovietUnivermag\SovietUnivermag\bin\Debug\net6.0\SovietUnivermag.exe
+C:\Users\evgen\source\repos\SovietUnivermag\SovietUnivermag\bin\Debug\net6.0\SovietUnivermag.deps.json
+C:\Users\evgen\source\repos\SovietUnivermag\SovietUnivermag\bin\Debug\net6.0\SovietUnivermag.runtimeconfig.json
+C:\Users\evgen\source\repos\SovietUnivermag\SovietUnivermag\bin\Debug\net6.0\SovietUnivermag.dll
+C:\Users\evgen\source\repos\SovietUnivermag\SovietUnivermag\bin\Debug\net6.0\SovietUnivermag.pdb
+C:\Users\evgen\source\repos\SovietUnivermag\SovietUnivermag\obj\Debug\net6.0\SovietUnivermag.csproj.AssemblyReference.cache
+C:\Users\evgen\source\repos\SovietUnivermag\SovietUnivermag\obj\Debug\net6.0\SovietUnivermag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evgen\source\repos\SovietUnivermag\SovietUnivermag\obj\Debug\net6.0\SovietUnivermag.AssemblyInfoInputs.cache
+C:\Users\evgen\source\repos\SovietUnivermag\SovietUnivermag\obj\Debug\net6.0\SovietUnivermag.AssemblyInfo.cs
+C:\Users\evgen\source\repos\SovietUnivermag\SovietUnivermag\obj\Debug\net6.0\SovietUnivermag.csproj.CoreCompileInputs.cache
+C:\Users\evgen\source\repos\SovietUnivermag\SovietUnivermag\obj\Debug\net6.0\SovietUnivermag.dll
+C:\Users\evgen\source\repos\SovietUnivermag\SovietUnivermag\obj\Debug\net6.0\refint\SovietUnivermag.dll
+C:\Users\evgen\source\repos\SovietUnivermag\SovietUnivermag\obj\Debug\net6.0\SovietUnivermag.pdb
+C:\Users\evgen\source\repos\SovietUnivermag\SovietUnivermag\obj\Debug\net6.0\SovietUnivermag.genruntimeconfig.cache
+C:\Users\evgen\source\repos\SovietUnivermag\SovietUnivermag\obj\Debug\net6.0\ref\SovietUnivermag.dll
